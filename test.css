@@ -1,0 +1,71 @@
+#Header {
+    width: 500px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 10px;
+    border: solid 8px black;
+    text-align: center;
+    background-color: purple;
+}
+
+#LeftNav  {
+    width: 400px;
+    border: solid 8px black;
+    float: left;
+    text-align: center;
+    padding-bottom: 8px;
+    background-color: purple;
+}
+
+#Content {
+    width: 700px;
+    border: solid 8px black;
+    margin-left: auto;
+    margin-right: auto;
+    margin-botton: 10px;
+    text-align: center;
+    padding: 15px;
+    background-color: purple;
+}
+
+#Footer {
+    border: solid 8px black;
+    text-align: center;
+    background-color: purple;
+}
+
+ul {
+    list-style-type: none;
+    padding-left: 0px;
+}
+
+#Header h1 {
+    font-size: 60px;
+    font-family: "Passion One";
+    color: rgb(255, 213, 25);
+    font-weight: bold;
+}
+
+body {
+    background-color: gray;
+}
+
+p {
+    color: white;
+    font-family: "Arial";
+    font-weight: bold;
+}
+
+h3 {
+    color: rgb(255, 213, 25);
+    font-weight: bold;
+    font-family: "Passion One";
+    font-size: 40px;
+    outline: 5px chocolate;
+}
+
+a {
+    color: white;
+    font-weight: bold;
+    font-size: 24px;
+}

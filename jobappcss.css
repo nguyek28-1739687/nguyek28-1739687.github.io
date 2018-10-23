@@ -1,0 +1,42 @@
+body {
+    background-image: url("background.png");
+}
+#Header h2 {
+    width: 500px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    text-align: center;
+    padding: 10px;
+    font-weight: bold;
+    font-family: Helvetica;
+    color: teal;
+    font-size: 36px;
+    box-shadow: 10px 10px 8px #888888;
+    background-color: white;
+    text-shadow: 2px 2px 2px black;
+}
+#Titles legend {
+    font-weight: bold;
+    text-align: left;
+    color: teal;
+}
+#Table {
+    border: 3px solid black;
+}
+table {
+    width: 100%;
+}
+th {
+    height: 30px;
+    background-color: rgb(73, 160, 160);
+    color: white;
+}
+td {
+    background-color:rgb(223, 219, 219);
+}
+th, td {
+    padding: 15px;
+    text-align: center;
+}
